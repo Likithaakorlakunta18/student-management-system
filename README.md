@@ -1,18 +1,16 @@
 # 🎓 Student Management System
 
 ## 📌 Description
-A desktop application to manage student records efficiently using Python and MySQL.  
-It supports CRUD operations with a user-friendly GUI.
+A desktop application to manage student records using Python and MySQL with a simple GUI.
 
 ---
 
 ## 🚀 Features
-- ➕ Add Student
-- ✏️ Update Student
-- ❌ Delete Student
-- 🔍 Search Students
-- 📊 Data Visualization (Charts)
-- 🔐 Login System (Admin/User)
+- Add Student
+- Update Student
+- Delete Student
+- Search Students
+- Login System
 
 ---
 
@@ -21,8 +19,25 @@ It supports CRUD operations with a user-friendly GUI.
 - MySQL
 - Tkinter / CustomTkinter
 - Pandas
-- Matplotlib
+
+---
+
+## ▶️ How to Run
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Run:
+python main.py
 
 ---
 
 ## 📂 Project Structure
+- main.py
+- gui.py
+- db.py
+- login.py
+
+---
+
+## 👩‍💻 Author
+Likitha
